@@ -1,0 +1,1 @@
+exec "$(dirname "$0")"/pyactivate -m src.update_subscriptions "$@"
